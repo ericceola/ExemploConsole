@@ -290,7 +290,7 @@ namespace ConsoleGenericObject
             catch (Exception ex)
             {
 
-                Console.WriteLine($"Mensagem de rro: {ex.Message}");
+                Console.WriteLine($"Mensagem de erro: {ex.Message}");
                 Console.ReadKey();
             }
         }
