@@ -16,7 +16,7 @@ namespace ConsoleINT054
             }
 
 
-            throw new ApplicationException("Arquivo parser não existe.");
+            throw new ApplicationException("Arquivo parser não existe para esse parse.");
         }
     }
 }
