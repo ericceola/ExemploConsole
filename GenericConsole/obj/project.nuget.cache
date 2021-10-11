@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xrisruu+Kk0CjQmyTlrVXfYJ7Cb2X3bxAX27hXJyeCiUriJv7gmT0Bavfc3Jq7aV+zfApotnBjtYmpGOsSOpfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\discover\\Documents\\Project\\ConsoleApp1\\GenericConsole\\GenericConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\discover\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}
