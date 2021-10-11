@@ -281,7 +281,7 @@ namespace ConsoleGenericObject
             {
                 await using (ServiceBusClient client = new ServiceBusClient(connectionString))
                 {
-                    // create a sender for the topic
+                    // create a sender for the topic (teste)
                     ServiceBusSender sender = client.CreateSender(topic);
                     await sender.SendMessageAsync(new ServiceBusMessage(jsonTopicMessage.ToString()));
                    // Console.WriteLine($"Sent a single message to the topic: {topic}");
